@@ -13,12 +13,12 @@ I have experience with writing layout for emails and small landing sites. I want
 
 ### Skills
 ---
--  HTML5
+-   HTML5
 -   CSS3
+-   SASS / LESS
 -   Git / Github
 -   Photoshop / Figma
 -   Tilda
--   SASS / LESS
 -   JavaScript (basics)
 
 ### Code examples 
