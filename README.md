@@ -1,2 +1,2 @@
 # rsschool-cv
-CV markdown for RS School stage #1
+https://priuet.github.io/rsschool-cv/cv
